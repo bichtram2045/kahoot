@@ -121,5 +121,5 @@ export default {
 </script>
 
 <style scoped>
-/* giữ nguyên style như cũ vì không gây lỗi */
+/*  */
 </style>
